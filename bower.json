@@ -1,18 +1,17 @@
 {
   "name": "bowerJs",
+  "version": "0.1.0",
   "authors": [
     "solebrain16 <solebrain16@gmail.com>"
   ],
   "description": "The bower js used in my web sites",
   "main": "test/test.js",
   "keywords": [
-    "css",
     "js",
-    "front-end",
-    "web"
+    "bower"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/Sole-Brain/bowerJs",
   "ignore": [
     "**/.*",
     "node_modules",
