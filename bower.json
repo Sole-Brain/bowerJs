@@ -1,0 +1,23 @@
+{
+  "name": "bowerJs",
+  "authors": [
+    "solebrain16 <solebrain16@gmail.com>"
+  ],
+  "description": "The bower js used in my web sites",
+  "main": "test/test.js",
+  "keywords": [
+    "css",
+    "js",
+    "front-end",
+    "web"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
