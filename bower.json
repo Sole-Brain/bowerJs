@@ -1,22 +1,29 @@
 {
-  "name": "bowerJs",
-  "version": "0.1.0",
+  "name": "my-bower-js",
+  "description": "The bower js used in my web sites",
+  "keywords": [
+    "motion",
+    "physics",
+    "particles"
+  ],
   "authors": [
     "solebrain16 <solebrain16@gmail.com>"
   ],
-  "description": "The bower js used in my web sites",
-  "main": "test/test.js",
-  "keywords": [
-    "js",
-    "bower"
+  "main": [
+    "test/test.js",
+    "test/test.css"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sole-brain/bowerjs.git"
+  },
   "license": "MIT",
-  "homepage": "https://github.com/Sole-Brain/bowerJs",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "private": false
 }
